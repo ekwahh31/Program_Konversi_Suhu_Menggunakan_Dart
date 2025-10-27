@@ -1,7 +1,7 @@
 import 'dart:io';
 
 Future<void> main() async {
-  print("=== Program Konversi Suhu ===");
+  print("||==========|| Program Konversi Suhu ||==========||");
   print("\nKamu mau aku bantu konversi suhu dari apa ke apa sayang?");
   print("1. Celcius ke Fahrenheit");
   print("2. Celcius ke Kelvin");
